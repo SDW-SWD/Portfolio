@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+main{
+    margin-top: 2em;
+    margin-left: 3em;
+    font-family:'poppins';
+    display: flex;
+}
+
+.content{
+    display: flex;
+    padding-bottom: -3em;
+    margin-bottom: -25em;
+}
+#dev{
+    margin-left: 1.5em;
+    display: inline;
+}
+#name{
+    margin-left: 1em;
+}
+.line{
+    margin-top: 4%;
+    margin-bottom: 43%;
+}
+.info{
+    margin-top:19%;
+    margin-left: 2.1em;
+    letter-spacing: 2px;
+    font-weight:lighter;
+}
+#me{
+    height: 60em;
+    margin-left: 13%;
+}
+.info > h4{
+    font-weight: 400;
+}
+.container-myself{
+    color: black;
+    margin-top: 10em;
+    margin-left: 12em;
+    margin-right: 5em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 8%;
+}
+.container-myself > h1{
+    letter-spacing: 0.11em;
+    font-size: 3rem;
+}
+.line{
+    display:flex;
+    /* margin-bottom: -2em; */
+    
+}
+.line-2{
+    height: max-content;
+    margin-top: 43px;
+    margin-left: 2em;
+    margin-right: 2em;
+}
+
+#myself{
+    margin-top: -10em;
+    line-height: 2.5em;
+    font-weight: 200;
+    
+}
+span{
+    font-weight: 500;
+    font-size: 40px;
+}
+
+.container-myself > p {
+    margin-right: 20px;
+}
+.right-container > h3{
+    color: black;
+}
+
+.weather-app-content{
+    margin-left: -12em;
+    margin-top: 60em;
+}
+.weather-app-content > h3{
+    font-size: 12px;
+    color: black;
+}
+
+.weather-app-content > h3{
+    margin-left: 5em;
+    margin-right: 4em;
+    padding-bottom: 5em;
+    letter-spacing: 0.01em;
+    line-height: 2em;
+}
+.airbnb-content{
+    margin-top: 50%;
+}
+
+.airbnb-content > p{
+    margin-top: -16em;
+    margin-left: 3em;
+    margin-right: 10em;
+    font-weight: 200;
+    letter-spacing: 0.1rem;
+    font-size: 22px;
+    line-height: 2.5rem;
+}
+
+.airbnb-content > img{
+    margin-top: 2em;
+    margin-right: 2em;
+}
+
+
+#line-project{
+    margin-left: 5em;
+    
+
+}
+
+.weather-app-content > p{
+    color: black;
+    margin-left: 10em;
+    margin-right: 5em;
+    padding-bottom: 5em;
+    font-weight: 200;
+    letter-spacing: 0.1rem;
+    font-size: 18px;
+    line-height: 2.5rem;
+}
+.weather-app-content{
+    margin-top: 45em;
+}
